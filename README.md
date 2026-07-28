@@ -2,7 +2,7 @@
 
 This repository provides research-use code, derived result tables, locked model metadata, figure-supporting summaries, supplementary-table support files, and repository manifests supporting the manuscript entitled:
 
-**A fixed six-gene transcriptomic signature represents a proteostasis-associated ferroptosis-tolerance state in acute myeloid leukemia**
+**A six-gene transcriptomic score associated with survival in acute myeloid leukemia: external evaluation and machine-learning comparison**
 
 ## Repository status
 
